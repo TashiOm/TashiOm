@@ -6,7 +6,7 @@
 <!-- - 💬 I am Tech Enthuists,  -->
 - 😄 Tashi Om
 - ⚡ Love Reading, Singing and Coding 
-- ✔  I am familiar with C, JavaScript, HTML, CSS, JavaScript, MySql and Linux
+- ✔  I am familiar with C, JavaScript, HTML, CSS, MySql and Linux
 - 📫 You can reach me out in Instagram - [@tashiyagnas77](https://www.instagram.com/tashiyagnas77/)
  LinkedIn - [Tashi Om]
 - 💻 Currently Working as a Technical Supportive Executive at NGN Technologies Private Limited
